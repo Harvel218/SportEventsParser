@@ -1,0 +1,1 @@
+export {createEventName} from './createEventName';
