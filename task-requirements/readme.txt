@@ -31,11 +31,3 @@
 - We strongly recommend to write some unit tests!
 
 Good luck!
-
-
-require : typescript and nodemon installed globally (in your path)
-to run code (in watch mode) just type in your terminal:
-nodemon
-
-lint:
-npx eslint . --fix
